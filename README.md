@@ -1,0 +1,3 @@
+# FragmentOnBackPressed
+针对fragment的回退事件
+对于activity中有相对应的回退按钮事件，但是fragment就没有，针对这个问题，在这里简单的实现下在fragment对回退按钮的监听
